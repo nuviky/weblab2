@@ -1,0 +1,13 @@
+textarea {
+    resize: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.container-lg{
+    margin:0 auto;
+    text-align:center;
+    vertical-align: middle;
+}
