@@ -22,7 +22,7 @@ include_once('header.php');
                           </div>
                           <div class="card-body">
                             <h6 class="card-title">'.$r['r_themathics'].'</h6>
-                            
+                            <p class="card-text">'.$r['u_mail'].'</p>
                             <p class="card-text">'.$r['r_report_description'].'</p>
                           </div>
                         </div>'; }
